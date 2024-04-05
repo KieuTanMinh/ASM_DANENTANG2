@@ -1,0 +1,321 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Long",
+      "email": "admin@gmail.com",
+      "phone": "0987654321",
+      "pass": "123456"
+    },
+    {
+      "id": "1b17",
+      "name": "minh",
+      "email": "minh@gmail.com",
+      "phone": "b",
+      "pass": "12345"
+    }
+  ],
+  "cayTrong":[
+    {
+        "id":"1",
+        "img":"https://cdn.tgdd.vn/Products/Images/42/314209/oppo-reno-11-xanh-thumb-600x600.jpg",
+        "name":"SamSung A13",
+        "status": 0,
+        "new":0,
+        "money":5000000,
+        "size":"128GB",
+        "from":"Hàn Quốc",
+        "quantity": "156",
+        "type":0
+    },{
+      "id":"2",
+      "img":"https://cdn.tgdd.vn/Products/Images/42/309831/xiaomi-redmi-note-13-gold-thumb-600x600.jpg",
+      "name":"Iphone 12 pro",
+      "status": 1,
+      "new":0,
+      "money":250000,
+      "size":"512GB",
+      "from":"Mỹ",
+      "quantity": "156",
+      "type":0
+  },
+  {
+    "id":"3",
+    "img":"https://cdn.tgdd.vn/Products/Images/42/250625/TimerThumb/samsung-galaxy-z-fold4-(24).jpg",
+    "name":"Iphon 13 pro",
+    "status": 0,
+    "new":0,
+    "money":2500000,
+    "size":"Nhỏ",
+    "from":"Mỹ",
+    "quantity": "156",
+    "type":0
+},
+{
+  "id":"4",
+  "img":"https://cdn.tgdd.vn/Products/Images/42/303825/iphone-15-plus-512gb-den-thumb-600x600.jpg",
+  "name":"Reno 11 128GB",
+  "status": 1,
+  "new":0,
+  "money":2500000,
+  "size":"5G",
+  "from":"Trung Quốc",
+  "quantity": "156",
+  "type":0
+},
+{
+  "id":"5",
+  "img":"https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/g/r/group_145_2.png",
+  "name":"Iphone 6S",
+  "status": 1,
+  "new":0,
+  "money":2500000,
+  "size":"4G 64GB",
+  "from":"Mỹ",
+  "quantity": "156",
+  "type":0
+},
+{
+  "id":"6",
+  "img":"https://cdn.tgdd.vn/Products/Images/42/309831/xiaomi-redmi-note-13-gold-thumb-600x600.jpg",
+  "name":"Iphone 6S",
+  "status": 1,
+  "new":0,
+  "money":2500000,
+  "size":"4G 64GB",
+  "from":"Mỹ",
+  "quantity": "156",
+  "type":0
+},
+{
+  "id":"7",
+  "img":"https://cdn.tgdd.vn/Products/Images/42/319670/xiaomi-redmi-note-13-pro-5g-violet-thumb-600x600.jpg",
+  "name":"Iphone 6S",
+  "status": 1,
+  "new":0,
+  "money":2500000,
+  "size":"4G 64GB",
+  "from":"Mỹ",
+  "quantity": "156",
+  "type":0
+},
+{
+  "id":"8",
+  "img":"https://cdn.tgdd.vn/Products/Images/42/301603/realme-c35-vang-thumb-600x600.jpg",
+  "name":"Iphone 6S",
+  "status": 1,
+  "new":0,
+  "money":2500000,
+  "size":"4G 64GB",
+  "from":"Mỹ",
+  "quantity": "156",
+  "type":0
+},
+{
+  "id":"9",
+  "img":"https://cdn.tgdd.vn/Products/Images/42/250625/samsung-galaxy-z-fold4-kem-256gb-600x600.jpg",
+  "name":"Iphone 6S",
+  "status": 1,
+  "new":0,
+  "money":2500000,
+  "size":"4G 64GB",
+  "from":"Mỹ",
+  "quantity": "156",
+  "type":0
+},
+{
+  "id":"10",
+  "img":"https://cdn.tgdd.vn/Products/Images/42/311120/vivo-y36-xanh-thumbnew-600x600.jpg",
+  "name":"Iphone 6S",
+  "status": 1,
+  "new":0,
+  "money":2500000,
+  "size":"4G 64GB",
+  "from":"Mỹ",
+  "quantity": "156",
+  "type":0
+}
+  ],
+  "chauCay":[
+    {
+        "id":"1",
+        "img":"https://cdn.tgdd.vn/Products/Images/42/250625/samsung-galaxy-z-fold4-kem-256gb-600x600.jpg",
+        "name":"SamSung Zflip",
+        "status": 0,
+        "new":0,
+        "money":20500000,
+        "size":"1TB",
+        "from":"Hàn Quốc",
+        "quantity": "156",
+        "type":1
+    },{
+      "id":"2",
+      "img":"https://cdn.tgdd.vn/Products/Images/42/305658/iphone-15-pro-max-blue-thumbnew-600x600.jpg",
+      "name":"SamSung Zflip",
+      "status": 0,
+      "new":0,
+      "money":20500000,
+      "size":"1TB",
+      "from":"Hàn Quốc",
+      "quantity": "156",
+      "type":1
+  },
+  {
+    "id":"3",
+    "img":"https://cdn.tgdd.vn/Products/Images/42/305659/iphone-15-pro-max-black-thumbnew-600x600.jpg",
+    "name":"SamSung Zflip",
+    "status": 0,
+    "new":0,
+    "money":20500000,
+    "size":"1TB",
+    "from":"Hàn Quốc",
+    "quantity": "156",
+    "type":1
+},
+{
+  "id":"4",
+  "img":"https://cdn.tgdd.vn/Products/Images/42/305659/iphone-15-pro-max-black-thumbnew-600x600.jpg",
+  "name":"SamSung Zflip",
+        "status": 0,
+        "new":0,
+        "money":20500000,
+        "size":"1TB",
+        "from":"Hàn Quốc",
+        "quantity": "156",
+        "type":1
+},
+{
+  "id":"5",
+  "img":"https://cdn.tgdd.vn/Products/Images/42/303832/iphone-15-pro-gold-thumbnew-600x600.jpg",
+  "name":"SamSung Zflip",
+  "status": 0,
+  "new":0,
+  "money":20500000,
+  "size":"1TB",
+  "from":"Hàn Quốc",
+  "quantity": "156",
+  "type":1
+},
+{
+  "id":"6",
+  "img":"https://cdn.tgdd.vn/Products/Images/42/303825/iphone-15-plus-512gb-den-thumb-600x600.jpg",
+  "name":"SamSung Zflip",
+  "status": 0,
+  "new":0,
+  "money":20500000,
+  "size":"1TB",
+  "from":"Hàn Quốc",
+  "quantity": "156",
+  "type":1
+},
+{
+  "id":"7",
+  "img":"https://cdn.tgdd.vn/Products/Images/42/303823/iphone-15-plus-256gb-xanh-thumb-600x600.jpg",
+  "name":"SamSung Zflip",
+  "status": 0,
+  "new":0,
+  "money":20500000,
+  "size":"1TB",
+  "from":"Hàn Quốc",
+  "quantity": "156",
+  "type":1
+}
+  ],
+  "phuKien":[
+    {
+        "id":"1",
+        "img":"https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/m/i/mieng-dan-camera-iphone-15-pro-max-uniq-1.png",
+        "name":"Sạc Điện thoại",
+        "status": 0,
+        "new":0,
+        "money":250000,
+        "size":"20w",
+        "from":"Việt Nam",
+        "quantity": "156",
+        "type":1
+    },{
+      "id":"2",
+      "img":"https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/d/_/d_n_wiwu_apple_watch_1_1.jpg",
+      "name":"Sạc Điện thoại",
+        "status": 0,
+        "new":0,
+        "money":250000,
+        "size":"20w",
+        "from":"Việt Nam",
+        "quantity": "156",
+        "type":1
+  },
+  {
+    "id":"3",
+    "img":"https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/b/a/ban-phim-apple-magic-keyboard-2021.png",
+    "name":"Sạc Điện thoại",
+        "status": 0,
+        "new":0,
+        "money":250000,
+        "size":"20w",
+        "from":"Việt Nam",
+        "quantity": "156",
+        "type":1
+},
+{
+  "id":"4",
+  "img":"https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/m/x/mxqt2ll.jpg",
+  "name":"Sạc Điện thoại",
+  "status": 0,
+  "new":0,
+  "money":250000,
+  "size":"20w",
+  "from":"Việt Nam",
+  "quantity": "156",
+  "type":1
+},
+{
+  "id":"5",
+  "img":"https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/g/r/group_145_2.png",
+  "name":"Sạc Điện thoại",
+        "status": 0,
+        "new":0,
+        "money":250000,
+        "size":"20w",
+        "from":"Việt Nam",
+        "quantity": "156",
+        "type":1
+},
+{
+  "id":"6",
+  "img":"https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/g/r/group_117_1.png",
+  "name":"Sạc Điện thoại",
+  "status": 0,
+  "new":0,
+  "money":250000,
+  "size":"20w",
+  "from":"Việt Nam",
+  "quantity": "156",
+  "type":1
+},
+{
+  "id":"7",
+  "img":"https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/g/r/group_169_2.png",
+  "name":"Sạc Điện thoại",
+        "status": 0,
+        "new":0,
+        "money":250000,
+        "size":"20w",
+        "from":"Việt Nam",
+        "quantity": "156",
+        "type":1
+},
+{
+  "id":"8",
+  "img":"https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/o/p/op-lung-iphone-13-pro-ou-trong-suot.png",
+ "name":"Sạc Điện thoại",
+        "status": 0,
+        "new":0,
+        "money":250000,
+        "size":"20w",
+        "from":"Việt Nam",
+        "quantity": "156",
+        "type":1
+}
+  ]
+}
